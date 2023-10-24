@@ -1,5 +1,3 @@
-# Generate the markdown content
-markdown_content = """
 # Parkinson's Disease Prediction
 
 This repository contains a Python script for predicting Parkinson's disease using machine learning techniques.
