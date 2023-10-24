@@ -40,14 +40,3 @@ The best performing models were the Random Forest Classifier and Decision Tree C
 In this project, we explored the prediction of Parkinson's disease using machine learning. The Random Forest Classifier and Decision Tree Classifier provided the highest accuracy.
 
 For more details, refer to the Jupyter notebook and the code.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-"""
-
-# Write the content to a file
-with open('readme.md', 'w') as f:
-    f.write(markdown_content)
-
-print("readme.md generated successfully!")
